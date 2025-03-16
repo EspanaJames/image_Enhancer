@@ -1,0 +1,10 @@
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\bin\Debug\imageEnhancer.exe.config
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\bin\Debug\imageEnhancer.exe
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\bin\Debug\imageEnhancer.pdb
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\obj\Debug\imageEnhancer.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\obj\Debug\imageEnhancer.Properties.Resources.resources
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\obj\Debug\imageEnhancer.csproj.GenerateResource.cache
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\obj\Debug\imageEnhancer.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\obj\Debug\imageEnhancer.exe
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\obj\Debug\imageEnhancer.pdb
+C:\Users\james\source\repos\imageEnhancer\imageEnhancer\obj\Debug\imageEnhancer.ImageEnhancer.resources
